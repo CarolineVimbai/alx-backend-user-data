@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" filter_datum """
+""" Protecting PII """
 
 from typing import List
 import logging
@@ -95,4 +95,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-
